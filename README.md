@@ -1,4 +1,5 @@
 # vuex-playlist
+![](preview/vuex-playlist.jpg)
 
 ## Project setup
 ```
